@@ -12,6 +12,22 @@ You can automatically test your progress by running `npm install` inside this fo
 
 > **Note:** The `height()` and `isBalanced()` functions should be considered an optional challenge that prepares you for the second lesson's challenges. 
 
+## Resources!
+
+### Helpful visualizations:
+
+Binary Search Trees
+
+https://www.cs.usfca.edu/~galles/visualization/BST.html
+
+AVL Trees (Self-balancing)
+
+https://www.cs.usfca.edu/~galles/visualization/AVLtree.html
+
+Tries
+
+https://www.cs.usfca.edu/~galles/visualization/Trie.html
+
 #### Optional Trie Challenge
 
 The "wordTrie-challenge" folder contains an optional challenge asking you to implement a search trie based on all the words in the English language. This is **optional and advanced**, but if you mastered building a binary tree, you should take on this challenge!
